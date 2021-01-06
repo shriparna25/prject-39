@@ -33,6 +33,7 @@ class Player {
         playerInfoRef.on("value", (data) => {
             allPlayers = data.val();
         })
+
     }
 
     

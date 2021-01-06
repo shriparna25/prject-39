@@ -16,6 +16,7 @@ var player_img;
 var p1score = 0
 var p2score = 0;
 
+
 function preload(){
   back_img = loadImage("images/jungle.jpg");
   player_img = loadImage("images/basket2.png");
